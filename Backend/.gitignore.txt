@@ -1,37 +1,7 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@shaziyaayshathu 
-shaziyaayshathu
-/
-LMSProject
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-LMSProject/Backend/.gitignore
-@Anjal-Rajeev
-Anjal-Rajeev gitignore added
-Latest commit e733e5c 7 days ago
- History
- 1 contributor
-42 lines (36 sloc)  550 Bytes
-
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
-# /dist
+/dist
 /tmp
 /out-tsc
 /bazel-out
@@ -70,18 +40,3 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-LMSProject/.gitignore at master · shaziyaayshathu/LMSProject
