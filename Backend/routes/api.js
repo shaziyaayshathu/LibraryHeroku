@@ -89,7 +89,7 @@ router.post('/register', (req,res)=>{
                 res.json({"status":"error"})
             }
             else{
-                res.json({"status":"error","data":data})
+                res.json({"status":"status","data":data})
             }
         })
         //res.send(saveUser)
